@@ -1,0 +1,22 @@
+<html>
+    <head> 
+        <meta charset="utf-">
+        <meta name="viewport" content="width=device-width, initial scale=1.0">
+        <link rel="stylesheet" href="style.css">
+    
+        <title>Tasks</title>
+        </head>
+    
+        <body>
+            <aside>
+                <h2>Entre em contato com o autor</h2>
+            
+                <address>
+            !t
+            t!<a href="mailto:john.doe@gmail.com">john.doe@gmail.com</a>
+            !t
+            t!<a href="tel:+5511999999999">+55 (11) 99999-9999</a>
+                </address>
+            </aside>
+        </body>
+</html>
