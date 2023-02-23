@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#banner {
+  display: flex;
+  justify-content: center;
+  background-image: url("../images/fm.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 670px;
+}
+.banner_headline {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.banner_headline h1 {
+  color: #dcdcdc;
+  font-size: 80px;
+  text-shadow: 0px 1px 0px #555;
+  margin: 0;
+  padding: 0;
+  max-width: 300px;
+}
+.banner_headline h2 {
+  color: #dcdcdc;
+  font-size: 30px;
+  text-shadow: 0px 1px 0px #555;
+  margin: 0;
+  padding: 0;
+  max-width: 350px;
+  margin-top: 30px;
+}
+.banner_headline h3 {
+  color: #dcdcdc;
+  font-size: 14px;
+  text-shadow: 0px 1px 0px #555;
+  margin: 0;
+  padding: 0;
+  max-width: 350px;
+  margin-top: 30px;
+}
+
+.bio_b {
+  width: auto;
+  padding: 10px;
+  background-color: #0c0c0c;
+  color: #dcdcdc;
+}
+.bio_tittle_B {
+  font-size: 30px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #dcdcdc;
+}
+.bio_desc_B {
+  font-size: 15px;
+  line-height: 20px;
+  text-indent: 10px;
+}
+
+.bio_w {
+  width: auto;
+  padding: 10px;
+  background-color: #dcdcdc;
+  color: #0c0c0c;
+}
+.bio_tittle_w {
+  font-size: 30px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #0c0c0c;
+}
+.bio_desc_w {
+  font-size: 15px;
+  line-height: 20px;
+  text-indent: 10px;
+}
+
+.footer {
+  background-color: #dcdcdc;
+  padding: 10px;
+  text-align: center;
+  border-top: 1px solid #dcdcdc;
+}
